@@ -1,48 +1,49 @@
 # Air Pollution Analysis Dashboard
 
-## Project Overview
+## Overview
 
-This project presents an interactive Power BI dashboard for analyzing air pollution data. The dashboard provides insights into pollution levels, trends, and environmental conditions across different locations.
+This project presents an interactive Power BI dashboard built using government air quality data. The dashboard focuses on identifying major pollutants contributing to air pollution and provides visual insights through maps, KPI cards, and analytical charts.
 
 ## Objectives
 
-* Analyze air quality indicators.
-* Identify pollution trends.
-* Compare pollution levels across regions.
-* Support data-driven environmental decision-making.
+* Analyze air quality data from government sources.
+* Identify pollutants with the highest impact on overall pollution levels.
+* Compare air quality across different locations.
+* Present environmental insights through interactive visualizations.
 
 ## Features
 
-* Interactive filters and slicers
-* Air quality trend analysis
-* Region-wise pollution comparison
-* Key performance indicators (KPIs)
-* Visual insights through charts and graphs
+* Interactive Power BI dashboard
+* Geographic visualization using maps
+* KPI cards for key pollution indicators
+* Pollutant contribution analysis
+* Comparative charts and visual analytics
+* Interactive filtering and exploration
+
+## Key Insights
+
+* Identifies major pollutants contributing to poor air quality.
+* Highlights location-wise pollution levels.
+* Enables comparison of environmental indicators across regions.
+* Provides a clear visual representation of air quality metrics.
 
 ## Tools & Technologies
 
 * Power BI
 * Data Cleaning
 * Data Visualization
-* Business Intelligence
 * Data Analytics
-
-## Dashboard Insights
-
-The dashboard enables users to:
-
-* Monitor air pollution levels.
-* Identify high pollution causing pollutant.
-* Explore environmental patterns using interactive visualizations.
+* Business Intelligence
 
 ## Skills Demonstrated
 
 * Data Analysis
 * Dashboard Development
 * Data Visualization
-* Business Intelligence Reporting
+* Insight Generation
 * Problem Solving
 
 ## Author
 
 Prateek Bishnoi
+
